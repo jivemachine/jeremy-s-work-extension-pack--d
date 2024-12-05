@@ -2,7 +2,7 @@
     "name": "jeremy-s-work-extension-pack--d",
     "displayName": "Jeremy's Work Extension Pack ;D",
     "description": "A compilation of extensions I use at work for PHP development",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "preview": false,
     "publisher": "Jivemachine",
     "repository": {
