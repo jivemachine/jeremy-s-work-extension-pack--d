@@ -1,0 +1,15 @@
+{
+  "name": "jeremy-s-work-exntension-pack--d",
+  "displayName": "Jeremy's Work Exntension Pack ;D",
+  "description": "A compilation of extensions I use at work for PHP development",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
